@@ -5,6 +5,7 @@ This project is a **Machine Learning-based Loan Approval Prediction System** bui
 ---
 
 ## 📌 Features
+✔ **FinSure Lending Solutions**
 ✔ **Predicts loan approval based on financial attributes**  
 ✔ **User-friendly web UI with Streamlit**  
 ✔ **Logistic Regression model for risk assessment**  
@@ -35,3 +36,8 @@ To launch the **Loan Approval Prediction System**, run:
 
 ## 📜 License
 This project is open-source under the **MIT License**.
+
+## 📊 Data Source
+This project uses the **Loan Eligible Dataset** from Kaggle:  
+[Vikas Ukani – Loan Eligible Dataset](https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset)  
+
