@@ -1,11 +1,11 @@
 # 🚀 Loan Approval Prediction System
 
-This project is a **Machine Learning-based Loan Approval Prediction System** built using **Python, Streamlit, and Scikit-Learn**. It predicts whether a loan application is likely to be **approved or denied** based on applicant details.
+This project was developed for **FinSure Lending Solutions** to assess **loan approval risk** using **Machine Learning**.  
+Built with **Python, Streamlit, and Scikit-Learn**, it predicts whether a loan application is likely to be **approved or denied** based on applicant details.
 
 ---
 
 ## 📌 Features
-✔ **FinSure Lending Solutions**
 ✔ **Predicts loan approval based on financial attributes**  
 ✔ **User-friendly web UI with Streamlit**  
 ✔ **Logistic Regression model for risk assessment**  
