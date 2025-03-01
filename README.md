@@ -19,8 +19,12 @@ Built with **Python, Streamlit, and Scikit-Learn**, it predicts whether a loan a
 ### 🔹 1️⃣ Install Dependencies
 Ensure you have Python installed, then install the required packages:
 
+pip install -r requirements.txt
+
 ### 🔹 2️⃣ Run the Application
 To launch the **Loan Approval Prediction System**, run:
+
+streamlit run app.py
 
 
 ### 🔹 3️⃣ How to Use
